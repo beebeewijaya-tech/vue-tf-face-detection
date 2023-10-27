@@ -8,6 +8,11 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@mediapipe/face_detection": "^0.4.1646425229",
+    "@tensorflow-models/face-detection": "^1.0.2",
+    "@tensorflow/tfjs-backend-webgl": "^4.12.0",
+    "@tensorflow/tfjs-converter": "^4.12.0",
+    "@tensorflow/tfjs-core": "^4.12.0",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },
